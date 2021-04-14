@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wagtail-external-menu-items",
-    version="0.1.0",
+    version="0.1.1",
     author="Diogo Silva",
     author_email="diogosilv30@gmail.com",
     description="Add external links to Wagtail Dashboard Menu",
