@@ -33,7 +33,7 @@ INSTALLED_APPS = (
 ```
 
 
-3. Add some configuration settings (inside your Django configs):
+2. Add some configuration settings (inside your Django configs):
 
 ```python
 # ...
