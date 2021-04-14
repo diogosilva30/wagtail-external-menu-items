@@ -2,7 +2,6 @@
 
 Add external links to Wagtail Dashboard Menu
 
-
 # Installation :package:
 
 From PyPi repository:
@@ -22,7 +21,6 @@ pip install -r requirements.txt
 
 # Quickstart
 
-
 1. Add `wagtail_external_menu_items` to your `INSTALLED_APPS` inside Django settings:
 
 ```python
@@ -31,7 +29,6 @@ INSTALLED_APPS = (
     'wagtail_external_menu_items',
 )
 ```
-
 
 3. Add some configuration settings (inside your Django configs):
 
@@ -53,7 +50,6 @@ WAGTAIL_EXTERNAL_MENU_ITEMS={
 
 That's all the configuration needed!
 
-
 ## Contributing
 
-All pull requests are welcome! In which ways you can provide your awesome contribution?
+All pull requests are welcome! Feel free to contribute with any bug fix or new feature!
