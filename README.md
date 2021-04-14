@@ -30,7 +30,7 @@ INSTALLED_APPS = (
 )
 ```
 
-3. Add some configuration settings (inside your Django configs):
+2. Add some configuration settings (inside your Django configs):
 
 ```python
 # ...
@@ -49,6 +49,10 @@ WAGTAIL_EXTERNAL_MENU_ITEMS={
 ```
 
 That's all the configuration needed!
+
+![image](https://user-images.githubusercontent.com/49190578/114732031-1cb1a400-9d3a-11eb-99ad-8850e5db19ff.png)
+
+> > > > > > > af83a5c6892b811f4249496d05f3e2cfc7ab0330
 
 ## Contributing
 
