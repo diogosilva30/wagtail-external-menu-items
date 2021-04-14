@@ -53,6 +53,8 @@ WAGTAIL_EXTERNAL_MENU_ITEMS={
 
 That's all the configuration needed!
 
+![image](https://user-images.githubusercontent.com/49190578/114732031-1cb1a400-9d3a-11eb-99ad-8850e5db19ff.png)
+
 
 ## Contributing
 
