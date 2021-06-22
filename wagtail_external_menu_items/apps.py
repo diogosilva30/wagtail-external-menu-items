@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class ExternalLinksConfig(AppConfig):
-    name = 'external_links'
+    name = 'wagtail_external_menu_items'
